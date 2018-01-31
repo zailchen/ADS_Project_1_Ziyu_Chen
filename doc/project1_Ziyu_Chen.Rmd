@@ -1,7 +1,10 @@
 ---
-title: "Economic expansions, recessions and wars -- how these historic events can affect presidents' inaugural speeches"
+title: Economic expansions, recessions and wars -- how these historic events can affect
+  presidents' inaugural speeches
 author: "Ziyu Chen"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 &nbsp;  
 
